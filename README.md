@@ -93,6 +93,9 @@ Sou **formado em Sistemas de Informação** pela **UNITRI de Uberlândia-MG** e 
   <a href="https://github.com/yugopereira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Yugo Pereira" />
   </a>
+  <a href="https://pt.duolingo.com/profile/YugoPereira" target="_blank">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Perfil Duolingo de Yugo Pereira" />
+  </a>
 </p>
 
 ---
