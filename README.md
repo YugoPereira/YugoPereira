@@ -67,10 +67,6 @@ Sou **formado em Sistemas de Informação** pela **UNITRI de Uberlândia-MG** e 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yugopereira&theme=tokyonight&hide_border=false" alt="Gráfico de streak do GitHub" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugopereira&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
