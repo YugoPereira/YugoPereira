@@ -46,9 +46,11 @@ Sou **formado em Sistemas de Informação** pela **UNITRI de Uberlândia-MG** e 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### 📚 Conhecimentos Complementares  
-> Logística • Contabilidade • Gestão Empresarial • Google Ads • Marketing Digital  
+>  Dados • Logística • Contabilidade • Gestão Empresarial • Google Ads • Marketing Digital  
 
 ---
 
