@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Yugo%20Pereira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Gestão%20%7C%20Tecnologia%20%7C%20Propósito&descAlignY=51&descAlign=62" alt="Header Yugo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Yugo%20Pereira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Gestão%20%7C%20Dados%20%7C%20Tecnologia%20%7C%20Propósito&descAlignY=51&descAlign=62" alt="Header Yugo"/>
 </div>
 
 <div align="center">
@@ -11,16 +11,24 @@
 
 <br>
 
-Sou **Analista em Contabilidade**, estudante de **Gestão Empresarial (FATEC)** e formado em **Sistemas de Informação**. 
+Sou **Analista em Contabilidade**, estudante de **Gestão Empresarial (FATEC)** e formado em **Sistemas de Informação**. Atualmente, estou em forte transição para a área de **Análise de Dados e Business Intelligence**, além de ser o criador do micro-SaaS **ROIVIC**.
 
 ### 🛤️ Uma Jornada Multidisciplinar
-Minha trajetória profissional é marcada pela versatilidade. Natural de Araguari-MG, sou missionário na Comunidade Católica Shalom e trago na bagagem experiências que forjaram minha resiliência:
+Minha trajetória profissional é marcada pela versatilidade. Natural de Araguari-MG e missionário na Comunidade Católica Shalom, trago na bagagem experiências que forjaram minha resiliência e visão de negócios:
 
-> 🎖️ **Ex-Militar & Instrutor:** Disciplina e didática.
+> 🎖️ **Ex-Militar & Instrutor:** Disciplina, didática e liderança.
 > 🚂 **Maquinista & Motorista:** Foco, responsabilidade e precisão operacional.
-> 💊 **Vendas:** Comunicação e empatia com o cliente.
+> 💊 **Vendas:** Comunicação, persuasão e empatia com o cliente.
 
-Hoje, uno essa vivência prática com **Tecnologia e Gestão** para criar soluções que resolvem problemas reais.
+Hoje, uno essa vivência prática com **Tecnologia, Inteligência Artificial e Dados** para criar soluções e painéis que resolvem problemas reais de mercado.
+
+---
+
+## 🏆 Reconhecimentos e Comunidade
+
+* 🌟 **Alumni DIO:** Membro do grupo seleto de ex-alunos de destaque da plataforma.
+* 🚀 **DIO Campus Expert:** Profissional certificado pela **Turma 13** e atualmente selecionado para liderança na **Turma 15**.
+* 🎓 **Bolsista Santander Open Academy:** Aprovado no concorrido bootcamp *Santander AI YouTube Creator*.
 
 ---
 
@@ -97,7 +105,7 @@ Hoje, uno essa vivência prática com **Tecnologia e Gestão** para criar soluç
 
 ---
 
-## ⚡ Conquistas
+## ⚡ Conquistas Automáticas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yugopereira&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/yugopereira?style=social)
